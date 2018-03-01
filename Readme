@@ -1,0 +1,4 @@
+Please follow this step
+1. Create the database name (pythondb), table name ( busstand ) then import sql busstand and table name ( busroute ) then import sql busroute 
+2. Generate your own Google API key then replace the API key in Bus_simulation.php
+3. All the file in same folder.
